@@ -22,34 +22,6 @@
             }
           },
           {
-            "id": "a22a4bbf27708a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejemplo Nueva Nota"
-            }
-          },
-          {
-            "id": "67cf102ca28aae18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejemplo Nueva Nota"
-            }
-          },
-          {
             "id": "9fea8fb6a24cd821",
             "type": "leaf",
             "state": {
@@ -64,17 +36,259 @@
             }
           },
           {
-            "id": "8ee79ba50f8da2d1",
+            "id": "fe3c4bf6bb71f601",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Requerimientos de negocio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de negocio"
+            }
+          },
+          {
+            "id": "25b84cc5f06e479d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Requerimientos de sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de sistema"
+            }
+          },
+          {
+            "id": "098bbf4ba98c73e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Requerimientos funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos funcionales"
+            }
+          },
+          {
+            "id": "4cc4289dac3bcbdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Requerimientos no funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos no funcionales"
+            }
+          },
+          {
+            "id": "5dc99eb3ad359984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Filosofia Agile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filosofia Agile"
+            }
+          },
+          {
+            "id": "163733944d385044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrum"
+            }
+          },
+          {
+            "id": "f15a5101af190e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Product Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Backlog"
+            }
+          },
+          {
+            "id": "02424d73d8371bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Sprint Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Backlog"
+            }
+          },
+          {
+            "id": "35cd6326b9e4f89b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Velocity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velocity"
+            }
+          },
+          {
+            "id": "d796ff07118bfd97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Story Points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story Points"
+            }
+          },
+          {
+            "id": "ae0d93fe797453f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Planning Poker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning Poker"
+            }
+          },
+          {
+            "id": "b3291c13efd91192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Product Owner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Owner"
+            }
+          },
+          {
+            "id": "f34d3bc00e3ee31f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Taskboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taskboard"
+            }
+          },
+          {
+            "id": "59cc847310c1a0c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/User Story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Story"
+            }
+          },
+          {
+            "id": "32b59efc5ce9ad00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Definition of done (DoD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition of done (DoD)"
+            }
+          },
+          {
+            "id": "bb8404b7faa1142c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Sprint Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Planning"
+            }
+          },
+          {
+            "id": "f44e7c7357d4e5ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Pruebas Funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pruebas Funcionales"
+            }
+          },
+          {
+            "id": "d750a96178561173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/00_Inbox/Stakeholder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stakeholder"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -222,23 +436,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fea8fb6a24cd821",
+  "active": "f44e7c7357d4e5ce",
   "lastOpenFiles": [
+    "CE1116/00_Inbox/Sprint Planning.md",
+    "CE1116/00_Inbox/Pruebas Funcionales.md",
+    "CE1116/00_Inbox/Definition of done (DoD).md",
+    "CE1116/00_Inbox/User Story.md",
+    "CE1116/00_Inbox/Taskboard.md",
+    "CE1116/00_Inbox/Product Owner.md",
+    "CE1116/00_Inbox/Planning Poker.md",
+    "CE1116/00_Inbox/Story Points.md",
+    "CE1116/00_Inbox/Velocity.md",
+    "CE1116/00_Inbox/Sprint Backlog.md",
+    "CE1116/00_Inbox/Product Backlog.md",
+    "CE1116/00_Inbox/Scrum.md",
+    "CE1116/00_Inbox/Filosofia Agile.md",
+    "CE1116/00_Inbox/Requerimientos no funcionales.md",
+    "CE1116/00_Inbox/Requerimientos funcionales.md",
+    "CE1116/00_Inbox/Requerimientos de sistema.md",
+    "CE1116/00_Inbox/Requerimientos de negocio.md",
+    "README.md",
+    "CE1116/00_Inbox/Stakeholder.md",
+    "CE1116/08_Templates/Atomic Template.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
     "CE1116/03_Arquitectura y Diseño/Microservicios.md",
     "CE1116/02_Requirimientos/Entrevistas.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/08_Templates/Atomic Template.md",
     "Untitled.canvas",
-    "README.md",
-    "CE1116/00_Inbox/test1.md",
-    "CE1116/00_Inbox/test.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
     "CE1116/07_Mantenimiento",
@@ -248,7 +474,6 @@
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
     "CE1116/03_Arquitectura y Diseño",
-    "Welcome.md",
     "CE1116/02_Requirimientos"
   ]
 }
