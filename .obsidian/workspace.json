@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "83799f1231bba92d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "4e50e34c3c6dc996",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -255,13 +267,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fef47c55b4bac43d",
+  "active": "864e9ea7ebf36baa",
   "lastOpenFiles": [
-    "CE1116/00_Inbox/Trade off en el diseño y arquitectura de software.md",
-    "CE1116/00_Inbox/Disponibilidad de la aplicación.md",
     "CE1116/00_Inbox/Latencia.md",
-    "CE1116/00_Inbox/Throughput.md",
+    "CE1116/00_Inbox/Disponibilidad de la aplicación.md",
+    "CE1116/00_Inbox/Trade off en el diseño y arquitectura de software.md",
     "CE1116/00_Inbox/Estrategia de modelado de la arquitectura por puntos de vista.md",
+    "CE1116/00_Inbox/Throughput.md",
     "README.md",
     "CE1116/00_Inbox/Requerimientos de negocio.md",
     "CE1116/00_Inbox/Requerimientos de sistema.md",
